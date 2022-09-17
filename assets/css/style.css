@@ -1129,7 +1129,7 @@ a:active {
 	content    : "\f095";
 	font-family: "FontAwesome";
 	font-size  : 25px;
-	color      : var(--primary-color);
+	color      : #008080;
 	position   : absolute;
 	top        : 0;
 	left       : 50%;
@@ -1151,7 +1151,7 @@ a:active {
 
 /* header-banner */
 #header-baner {
-	height             : 420px;
+	height             : 110px;
 	position           : relative;
 	background-image   : url(../image/common/header-baner.jpg);
 	background-position: center center;
@@ -1161,7 +1161,6 @@ a:active {
 
 #header-baner .text-banner {
 	position: absolute;
-	top     : 140px;
 }
 
 #header-baner .text-banner .baner-tittle {
@@ -2205,7 +2204,7 @@ h2.title-ab {
 }
 
 h3.heading {
-	color         : var(--primary-color);
+	color         : #008080;
 	font-family   : 'Rubik', sans-serif;
 	font-size     : 16px;
 	line-height   : 20px;
@@ -2213,9 +2212,9 @@ h3.heading {
 }
 
 .title-heading {
-	color         : var(--primary-color2);
+	color         : #008080;
 	font-family   : 'Jost', sans-serif;
-	font-size     : 46px;
+	font-size     : 30px;
 	font-weight   : var(--font-weight-medium);
 	line-height   : 58px;
 	letter-spacing: -1px;
@@ -4147,7 +4146,7 @@ ul.list-hours li .opening-hours {
 .page-content .title-heading {
 	color         : var(--primary-color2);
 	font-family   : 'Jost', sans-serif;
-	font-size     : 46px;
+	font-size     : 30px;
 	font-weight   : var(--font-weight-medium);
 	line-height   : 58px;
 	padding-bottom: 25px;
